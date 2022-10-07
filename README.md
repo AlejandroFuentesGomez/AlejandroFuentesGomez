@@ -1,7 +1,7 @@
 <p align="center">
 <img  src="images\alejandro_fuentes_icon.png" width="300">
 </p>
-<ul><h1 align="center">Hi 👋, I'm Alejandro Fuentes</h1>
+<h1 align="center">Hi 👋, I'm Alejandro Fuentes</h1>
 
 <h3 align="center">Welcome, nice to meet you.</h3>
 <p align="center">
